@@ -15,6 +15,7 @@
             
         </div>
         <div>
+            <label for="text"> Your opinion: </label>
             <textarea name="text" id=""></textarea>
         </div>
         <div>
