@@ -9,8 +9,7 @@ Route::get('/', function () {
 
 Route::get('/form_receive', function () {
     
-    echo "<h1> FeedBack </h1>";
-    
+    echo "<h1> FeedBacks </h1>";
     echo "<br>";
     echo "Name: " . $_GET["name"] ;
     echo "<br>";
